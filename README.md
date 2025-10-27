@@ -29,7 +29,7 @@ Before you run PARADISE, you should add paths into MATLAB environment. Please ty
 ```
 run addPaths
 ```
-Or, you manually add paths for `src` and `library` directories.
+Or, you manually add paths for `data`, `src`, and `utils` directories.
 Then, type the following command to run data:
 ```
 run main.m
